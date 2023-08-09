@@ -1,0 +1,16 @@
+{
+	"name": "clone-tabnews",
+	"version": "1.0.0",
+	"description": "## This application is a clone of the [**Tabnews**](https://www.tabnews.com.br) project created by [**Filipe Deschamps**](https://www.youtube.com/@FilipeDeschamps). This repository is designed to practice building a functional end-to-end application. The entire project is based on the course on the [_curso.dev_](https://www.curso.dev) website",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"next": "^13.1.6",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
